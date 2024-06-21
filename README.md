@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m Pedro Fernandes (Olá, eu sou o Pedro Fernandes)
-- 👀 I’m interested in computer programming, C Language, Bash Shell and web development
-- 👀 Tenho interesse em programação de computadores, Linguagem C, Shell Bash e desenvolvimento web
-- 🌱 I’m currently learning Html5 and Css3, the next step being learning JavaScript
-- 🌱 Atualmente estou aprendendo Html5 e Css3, sendo o próximo passo aprender JavaScript
+- 👀 I’m interested in computer programming, C Language, Linux & Bash Shell and web development
+- 👀 Tenho interesse em programação de computadores, Linguagem C, Linux & Shell Bash e desenvolvimento web
+- 🌱 I’m currently learning Html5, Css3 and JavaScript
+- 🌱 Atualmente estou aprendendo Html5, Css3 e JavaScript
 - 💞️ I like to learn new languages (currently learnig German) and love to watch movies and series (Fringe and Battlestar Galactica are two of the best series ever made by Man!!)
 - 💞️ Gosto de aprender novas línguas (atualmente estou aprendendo Alemão) e adoro assistir filmes e séries (Fringe e Battlestar Galactica são as duas melhores séries já alguma vez feitas!!)
 - 📫 You can reach me at pedrobfernandes37@gmail.com and pedrobfernandes37@protonmail.com
