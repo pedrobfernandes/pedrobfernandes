@@ -2,11 +2,11 @@
 
 ## Sobre mim
 
-Sou um estudante de **desenvolvimento web**, focado principalmente no **frontend**. Atualmente, conheço **HTML**, **CSS**, **JavaScript** e **React**. Comecei a minha jornada no mundo do desenvolvimento com os cursos do **freeCodeCamp**, onde aprendi as bases de **HTML**, **CSS** e **JavaScript**. No caso do **React**, busquei tutoriais mais atualizados, pois o curso do freeCodeCamp estava um pouco desatualizado. 
+Sou estudante de **desenvolvimento web**, com foco principal no **frontend**. Atualmente, tenho conhecimentos em **HTML**, **CSS**, **JavaScript** e **React**. Iniciei minha jornada no mundo do desenvolvimento com os cursos do **freeCodeCamp**, onde aprendi as bases dessas tecnologias. 
 
-Tento me manter atualizado em relação as novas tecnologias e tendências frontend mas sem me sobrecarregar demasiado. Acredito que é melhor fazer um projeto bem feito com a tríade básica (**HTML CSS JavaScript**) e priorizando a acessibilidade e design responsivo ao máximo, do que fazer um projeto super visual e moderno, com as últimas tecnologias, que muitas vezes acabam negligenciando esses aspetos, apenas para se dizer que conhece React, Vue ou alguma outra tendência. Gosto de interfaces **simples, elegantes, acessíveis e que ficam igualmente bonitas em qualquer tela** e não interfaces cheias de efeitos e transições, que acabam por ficar complexas, confusas e desagradaveis..
+Procuto me  manter atualizado em relação às novas tecnologias e tendências frontend, mas sem fazer disso uma obsessão. Acredito mais em saber bastante sobre um assunto do que em saber superficialmente sobre muitos. Prefiro aprender com profundidade e qualidade - mesmo que isso signifique levar mais tempo até receber propostas de trabalho - a transformar meu aprendizado em uma "corrida armamentista" de acumular ferramentas sem real compreensão. Nos meus projetos valorizo interfaces **simples, elegantes, acessíveis e que funcionem bem em qualquer tela**. O ideal é conseguir conjugar acessibilidade, responsividade e beleza em um projeto, mas, se me deparar com a escolha entre beleza e acessibilidade, **a acessibilidade sempre vence**. Por esse motivo, acredito que simplicidade e objetividade são sempre as melhores escolhas -  um botão com o texto "Menu" é legível por qualquer tipo de usuário, ao contrário de um ícone "hambúrguer".
 
-Sou usuário de **Linux** no meu dia a dia, onde me sinto confortável em usar ferramentas como **bash scripts** para automatizar tarefas simples e algumas um pouco mais complexas. Também tenho um conhecimento **básico** em **MySQL** e **SQLite**.
+No dia a dia uso **Linux** (como usuário comum), e me sinto confortável utilizando ferramentas como **bash scripts** para automatizar tarefas simples e algumas um pouco mais complexas. Também tenho conhecimentos **básicos** em **MySQL** e **SQLite**.
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -51,8 +51,7 @@ Aqui estão alguns dos meus projetos favoritos que estou desenvolvendo:
 
 ## 🎯 Objetivos de Carreira
 
-Meu objetivo a curto prazo é continuar aprimorando minhas habilidades em **frontend** e explorar as melhores práticas para criar interfaces mais intuitivas, funcionais e acessíveis. Como não tenho bola de cristal para prevêr o futuro conto apenas com meu objetivo do **agora**.
-
+Meu objetivo a curto prazo é continuar aprimorando minhas habilidades em frontend e explorar as melhores práticas para criar interfaces mais **intuitivas, funcionais e acessíveis** — sem me prender a planos longos, porque, afinal, ninguém sabe o que o amanhã reserva:)
 
 <!---
 pedrobfernandes/pedrobfernandes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
