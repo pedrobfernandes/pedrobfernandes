@@ -4,8 +4,6 @@
 
 Estudante de **desenvolvimento web**, com foco principal no **frontend**. Atualmente, tenho conhecimentos em **HTML**, **CSS**, **JavaScript** e **React**. Comecei meus estudos com os cursos do **freeCodeCamp**, onde aprendi as bases da programação web.
 
-No meu dia a dia uso **Linux** (como usuário comum), e me sinto confortável utilizando ferramentas como **bash scripts** para automatizar tarefas simples e algumas um pouco mais complexas. Também tenho conhecimentos **básicos** em **MySQL** e **SQLite**.
-
 ## 🛠️ Tecnologias e Ferramentas
 
 - **Linguagens**:
