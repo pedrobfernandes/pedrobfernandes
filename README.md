@@ -25,7 +25,7 @@ Estudante de **desenvolvimento web**, com foco principal no **frontend**. Atualm
 ## 🚀 Projetos Pessoais
 
 ### **[TrackBalance](https://github.com/pedrobfernandes/trackbalance)**
-Uma aplicação web para controle de finanças pessoais desenvolvida como projeto de aprendizado e portfólio. O foco principal foi garantir uma experiência acessível e intuitiva para todos os usuários, com componentes customizados e testes rigorosos de acessibilidade.
+Uma aplicação web para controle de finanças pessoais desenvolvida como projeto de aprendizado e portfólio. O foco principal foi garantir uma experiência acessível e intuitiva para todos os usuários.
 
 **Detalhes:**
 - **Tecnologias usadas**: React, Vite, Supabase, React Router, Recharts, jsPDF AutoTables, CSS
@@ -35,8 +35,8 @@ Uma aplicação web para controle de finanças pessoais desenvolvida como projet
   - Exportação de dados para CSV e PDF
   - Dashboard com gráficos e tabelas acessíveis
   - Autenticação por OTP (One-Time Password)
-  - Componentes 100% customizados e testados com leitor de tela
-  - Navegação completa via teclado
+  - Componentes customizados
+  - Projeto todo testado com teclado, leitor de tela e várias ferramentas de teste
 
 
 ### **[watchit](https://github.com/pedrobfernandes/watchit)**
