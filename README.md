@@ -53,7 +53,6 @@ App para descobrir filmes e séries usando a API do TMDB. Desenvolvido com foco 
 
 ## 📧 Como me encontrar
 - 💼 **LinkedIn**: [Pedro Fernandes](https://www.linkedin.com/in/pedrobfernandes/)
-- 📧 **Linkedin**:[www.linkedin.com/in/pedrobfernandes]
 - 📧 **E-mail**: [pedrobfernandes37@protonmail.com](mailto:pedrobfernandes37@protonmail.com)
 - 📧 **E-mail**: [pedrobfernandes37@gmail.com](mailto:pedrobfernandes37@gmail.com)
 - 📱 **WhatsApp**: [+5511989378356](https://wa.me/5511989378356)
