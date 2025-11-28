@@ -24,17 +24,30 @@ Estudante de **desenvolvimento web**, com foco principal no **frontend**. Atualm
 
 ## 🚀 Projetos Pessoais
 
-- **[watchit](https://github.com/pedrobfernandes/watchit)**: Um aplicativo web desenvolvido em React que consome a API do TMDB para exibir filmes e séries populares e mais bem avaliados. Conta com funcionalidades como pesquisa de filmes/séries, exibição de trailers, detalhes sobre o elenco e provedores de streaming. Feito com foco em mobile-first e acessibilidade (dentro do meu atual conhecimento). A aplicação é totalmente funcional e serve como um exemplo do meu aprendizado e aplicação de React, CSS, React Router, React Query, e integrações com APIs externas.
+### **[TrackBalance](https://github.com/pedrobfernandes/trackbalance)**
+Uma aplicação web para controle de finanças pessoais desenvolvida como projeto de aprendizado e portfólio. O foco principal foi garantir uma experiência acessível e intuitiva para todos os usuários, com componentes customizados e testes rigorosos de acessibilidade.
 
-  ## Detalhes:
+**Detalhes:**
+- **Tecnologias usadas**: React, Vite, Supabase, React Router, Recharts, jsPDF AutoTables, CSS
+- **Funcionalidades**:
+  - Gestão de receitas e despesas mensais
+  - Navegação inteligente entre meses com preenchimento automático
+  - Exportação de dados para CSV e PDF
+  - Dashboard com gráficos e tabelas acessíveis
+  - Autenticação por OTP (One-Time Password)
+  - Componentes 100% customizados e testados com leitor de tela
+  - Navegação completa via teclado
 
-  - **Tecnologias usadas**: React, CSS, React Router, React Query, Fetch API, TMDB API, Netlify Functions.
-  
-  - **Funcionalidades**:
-    - Exibição de filmes e séries populares e mais bem avaliados.
-    - Pesquisa por título, com exibição de detalhes, trailers e elenco.
-    - Design responsivo e foco em acessibilidade.
-    - Navegação fluida com React Router e paginação com React Query.
+
+### **[watchit](https://github.com/pedrobfernandes/watchit)**
+App para descobrir filmes e séries usando a API do TMDB. Desenvolvido com foco em mobile-first e acessibilidade.
+
+**Detalhes:**
+- **Tecnologias**: React, React Router, React Query, TMDB API
+- **Funcionalidades**:
+  - Busca e listagem de filmes/séries
+  - Detalhes, trailers e elenco
+  - Design responsivo e acessível
   
 
 
