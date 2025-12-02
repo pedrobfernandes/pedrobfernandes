@@ -36,7 +36,7 @@ Uma aplicação web para controle de finanças pessoais desenvolvida como projet
   - Dashboard com gráficos e tabela acessível
   - Autenticação por OTP (One-Time Password)
   - Componentes customizados
-  - Projeto todo testado com teclado, leitor de tela ORCA no Linux e várias ferramentas de teste
+  - Projeto todo testado com teclado, leitor de tela Orca no Linux e várias ferramentas de teste
 
 
 ### **[watchit](https://github.com/pedrobfernandes/watchit)**
