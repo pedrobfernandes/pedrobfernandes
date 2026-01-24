@@ -2,11 +2,12 @@
 
 ## Sobre mim
 
-Estudante de **desenvolvimento web**, com foco principal no **frontend**. Atualmente, tenho conhecimentos em **HTML**, **CSS**, **JavaScript** e **React**. Comecei meus estudos com os cursos do **freeCodeCamp**, onde aprendi as bases da programação web.
+**Desenvolvedor Frontend em formação**, com base sólida em **HTML, CSS, JavaScript, TypeScript e React**, adquirida por meio de estudos autodidatas e cursos do **freeCodeCamp**.
+Tenho especial interesse em **acessibilidade, semântica e boas práticas**, aplicando esses conceitos de forma prática e consciente em projetos pessoais.
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens**:
+- **Frontend**:
   - HTML
   - CSS
   - JavaScript
@@ -20,41 +21,47 @@ Estudante de **desenvolvimento web**, com foco principal no **frontend**. Atualm
   - Linux (sistema do dia a dia)
   - Bash Scripting
   - Git
-  - Supabase (**em aprendizado**)
+  - Supabase
 
 ## 🚀 Projetos Pessoais
 
 ### **[TrackBalance](https://github.com/pedrobfernandes/trackbalance)**
-Uma aplicação web para controle de finanças pessoais desenvolvida como projeto de aprendizado e portfólio.
+Aplicação web para controle de finanças pessoais, desenvolvida como projeto de aprendizado e portfólio, com forte foco em acessibilidade e usabilidade real.
 
-**Detalhes:**
-- **Tecnologias usadas**: React, Vite, Supabase, React Router, Recharts, jsPDF AutoTables, CSS
-- **Funcionalidades**:
+**Destaques técnicos:**
+
+- **Tecnologias**: React, Vite, Supabase, React Router, Recharts, jsPDF AutoTables, CSS
+- **Funcionalidades principais:**
   - Gestão de receitas e despesas mensais
-  - Navegação inteligente entre meses com preenchimento automático
+  - Navegação inteligente entre meses, com criação automática apenas quando há dados
   - Exportação de dados para CSV e PDF
-  - Dashboard com gráfico e uma tabela acessível
+  - Dashboard com resumo financeiro, gráfico e tabela totalmente acessível
   - Autenticação por OTP (One-Time Password)
-  - Componentes customizados
-  - Projeto todo testado com teclado, leitor de tela Orca no Linux e várias ferramentas de teste
+- **Acessibilidade:**
+  - Componentes customizados desenvolvidos seguindo o WAI-ARIA Authoring Practices
+  - Navegação completa por teclado
+  - Testes manuais com leitor de tela Orca (Linux)
+  - Validação com ferramentas automatizadas de acessibilidade
 
 
 ### **[watchit](https://github.com/pedrobfernandes/watchit)**
-App para descobrir filmes e séries usando a API do TMDB. Desenvolvido com foco em mobile-first e acessibilidade.
+Aplicação web para descoberta de filmes e séries, consumindo a API do TMDB, desenvolvida com foco em mobile-first, consumo de APIs e acessibilidade básica em aplicações SPA.
 
-**Detalhes:**
+**Destaques técnicos:**
 - **Tecnologias**: React, React Router, React Query, TMDB API
-- **Funcionalidades**:
-  - Busca e listagem de filmes/séries
-  - Detalhes, trailers e elenco
-  - Design responsivo e acessível
+- **Funcionalidades principais**:
+  - Busca e listagem de filmes e séries populares e mais bem avaliados
+  - Paginação controlada via botão “Carregar mais”
+  - Página de detalhes com trailers, elenco, temporadas e plataformas de streaming
+  - Interface responsiva e navegável por teclado
+  - Uso de HTML semântico e boas práticas de acessibilidade
   
 
 
 ## 📧 Como me encontrar
 - 💼 **LinkedIn**: [Pedro Fernandes](https://www.linkedin.com/in/pedrobfernandes/)
-- 📧 **E-mail**: [pedrobfernandes37@protonmail.com](mailto:pedrobfernandes37@protonmail.com)
-- 📧 **E-mail**: [pedrobfernandes37@gmail.com](mailto:pedrobfernandes37@gmail.com)
+- 📧 **E-mail**: [pedrobfernandes37@protonmail.com](mailto:pedrobfernandes37@protonmail.com) (Principal)
+- 📧 **E-mail**: [pedrobfernandes37@gmail.com](mailto:pedrobfernandes37@gmail.com) (Alternativo)
 - 📱 **WhatsApp**: [+5511989378356](https://wa.me/5511989378356)
 
 <!---
