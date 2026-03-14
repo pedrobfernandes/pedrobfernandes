@@ -19,10 +19,10 @@ Tenho especial interesse em **acessibilidade, semântica, design responsivo e bo
   - SQLite (**básico**)
 
 - **Ferramentas e Sistemas**:
-  - Linux (mabiente de desenvolvimento e sistema do dia a dia)
+  - Linux (ambiente de desenvolvimento e uso diário)
   - Bash Scripting
   - Git
-  - Supabase
+  - Supabase (**básico**)
 
 ## 🚀 Projetos Pessoais
 
