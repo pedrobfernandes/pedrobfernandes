@@ -2,8 +2,8 @@
 
 ## Sobre mim
 
-**Desenvolvedor Frontend em formação**, com base sólida em **HTML, CSS, JavaScript, TypeScript e React**, adquirida por meio de estudos autodidatas e cursos do **freeCodeCamp**.
-Tenho especial interesse em **acessibilidade, semântica e boas práticas**, aplicando esses conceitos de forma prática e consciente em projetos pessoais.
+**Desenvolvedor Frontend com foco em Acessibilidade (WCAG)**. Tenho base sólida em **HTML, CSS, JavaScript, TypeScript e React**, adquirida por meio de estudos autodidatas e cursos do **freeCodeCamp**.
+Tenho especial interesse em **acessibilidade, semântica, design responsivo e boas práticas**, aplicando esses conceitos de forma prática e consciente em projetos pessoais.
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -11,6 +11,7 @@ Tenho especial interesse em **acessibilidade, semântica e boas práticas**, apl
   - HTML
   - CSS
   - JavaScript
+  - TypeScript
   - React
 
 - **Banco de Dados**:
@@ -18,7 +19,7 @@ Tenho especial interesse em **acessibilidade, semântica e boas práticas**, apl
   - SQLite (**básico**)
 
 - **Ferramentas e Sistemas**:
-  - Linux (sistema do dia a dia)
+  - Linux (mabiente de desenvolvimento e sistema do dia a dia)
   - Bash Scripting
   - Git
   - Supabase
