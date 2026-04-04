@@ -1,69 +1,79 @@
 # Olá, eu sou Pedro Fernandes 👋
 
-## Sobre mim
+Desenvolvedor Frontend com foco em **React, TypeScript e acessibilidade (WCAG)**.
 
-**Desenvolvedor Frontend com foco em Acessibilidade (WCAG)**. Tenho base sólida em **HTML, CSS, JavaScript, TypeScript e React**, adquirida por meio de estudos autodidatas e cursos do **freeCodeCamp**.
-Tenho especial interesse em **acessibilidade, semântica, design responsivo e boas práticas**, aplicando esses conceitos de forma prática e consciente em projetos pessoais.
+Desenvolvo aplicações web completas com integração a APIs, autenticação e foco em **interfaces acessíveis, responsivas e bem estruturadas**. Tenho experiência prática com navegação por teclado, gerenciamento de foco e uso de ARIA, incluindo testes com leitor de tela (ORCA).
 
-## 🛠️ Tecnologias e Ferramentas
+---
 
-- **Frontend**:
-  - HTML
-  - CSS
-  - JavaScript
-  - TypeScript
-  - React
+## 🛠️ Tecnologias
 
-- **Banco de Dados**:
-  - MySQL (**básico**)
-  - SQLite (**básico**)
+**Frontend**
 
-- **Ferramentas e Sistemas**:
-  - Linux (ambiente de desenvolvimento e uso diário)
-  - Bash Scripting
-  - Git
-  - Supabase (**básico**)
+* React • TypeScript • JavaScript (ES6+)
+* HTML5 (semântico) • CSS3 (Flexbox, Grid)
 
-## 🚀 Projetos Pessoais
+**Dados e Integração**
 
-### **[TrackBalance](https://github.com/pedrobfernandes/trackbalance)**
-Aplicação web para controle de finanças pessoais, desenvolvida como projeto de aprendizado e portfólio, com forte foco em acessibilidade e usabilidade real.
+* APIs REST • Validação de dados • Autenticação (OTP)
+* Supabase
 
-**Destaques técnicos:**
+**Acessibilidade**
 
-- **Tecnologias**: React, Vite, Supabase, React Router, Recharts, jsPDF AutoTables, CSS
-- **Funcionalidades principais:**
-  - Gestão de receitas e despesas mensais
-  - Navegação inteligente entre meses, com criação automática apenas quando há dados
-  - Exportação de dados para CSV e PDF
-  - Dashboard com resumo financeiro, gráfico e tabela totalmente acessível
-  - Autenticação por OTP (One-Time Password)
-- **Acessibilidade:**
-  - Componentes customizados desenvolvidos seguindo o WAI-ARIA Authoring Practices
-  - Navegação completa por teclado
-  - Testes manuais com leitor de tela Orca (Linux)
-  - Validação com ferramentas automatizadas de acessibilidade
+* WCAG • WAI-ARIA • Navegação por teclado
+* Gerenciamento de foco • aria-live
+* Testes com leitor de tela (ORCA)
 
+**Ferramentas**
 
-### **[watchit](https://github.com/pedrobfernandes/watchit)**
-Aplicação web para descoberta de filmes e séries, consumindo a API do TMDB, desenvolvida com foco em mobile-first, consumo de APIs e acessibilidade básica em aplicações SPA.
+* Git • GitHub • Linux • Bash
 
-**Destaques técnicos:**
-- **Tecnologias**: React, React Router, React Query, TMDB API
-- **Funcionalidades principais**:
-  - Busca e listagem de filmes e séries populares e mais bem avaliados
-  - Paginação controlada via botão “Carregar mais”
-  - Página de detalhes com trailers, elenco, temporadas e plataformas de streaming
-  - Interface responsiva e navegável por teclado
-  - Uso de HTML semântico e boas práticas de acessibilidade
-  
+---
 
+## 🚀 Projetos em Destaque
 
-## 📧 Como me encontrar
-- 💼 **LinkedIn**: [Pedro Fernandes](https://www.linkedin.com/in/pedrobfernandes/)
-- 📧 **E-mail**: [pedrobfernandes37@protonmail.com](mailto:pedrobfernandes37@protonmail.com) (Principal)
-- 📧 **E-mail**: [pedrobfernandes37@gmail.com](mailto:pedrobfernandes37@gmail.com) (Alternativo)
-- 📱 **WhatsApp**: [+5511989378356](https://wa.me/5511989378356)
+### 🔹 TrackBalance
+
+Aplicação completa de finanças pessoais com autenticação, persistência de dados e foco avançado em acessibilidade.
+
+* Autenticação via OTP e integração com Supabase
+* Dashboard financeiro com controle de receitas e despesas
+* Componentes acessíveis customizados (modal com focus trap, select com typeahead, input numérico)
+* Implementação de acessibilidade com ARIA, gerenciamento de foco e aria-live
+
+🔗 [Ver repositório](https://github.com/pedrobfernandes/trackbalance)
+
+---
+
+### 🔹 Weather Now
+
+Aplicação de previsão do tempo com integração à API Open-Meteo, utilizando TypeScript e validação de dados.
+
+* Tipagem com TypeScript e validação com Zod
+* Interface responsiva e acessível
+* Feedback dinâmico via aria-live
+
+🔗 [Ver repositório](https://github.com/pedrobfernandes/weather-now)
+
+---
+
+### 🔹 Todo List
+
+Aplicação de gerenciamento de tarefas com foco em interatividade e acessibilidade.
+
+* Funcionalidades completas de CRUD com persistência em localStorage
+* Suporte a tema claro/escuro com prefers-color-scheme
+* Acessibilidade com navegação por teclado e aria-live
+
+🔗 [Ver repositório](https://github.com/pedrobfernandes/todo-list)
+
+---
+
+## 📫 Contato
+
+* 💼 LinkedIn: https://www.linkedin.com/in/pedrobfernandes
+* 📧 Email: [pedrobfernandes37@gmail.com](mailto:pedrobfernandes37@gmail.com)
+
 
 <!---
 pedrobfernandes/pedrobfernandes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
