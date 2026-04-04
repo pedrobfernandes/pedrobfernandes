@@ -65,7 +65,7 @@ Aplicação de gerenciamento de tarefas com foco em interatividade e acessibilid
 * Suporte a tema claro/escuro com prefers-color-scheme
 * Acessibilidade com navegação por teclado e aria-live
 
-🔗 [Ver repositório](https://github.com/pedrobfernandes/todo-list)
+🔗 [Ver repositório](https://github.com/pedrobfernandes/todo)
 
 ---
 
