@@ -53,7 +53,7 @@ Aplicação de previsão do tempo com integração à API Open-Meteo, utilizando
 * Interface responsiva e acessível
 * Feedback dinâmico via aria-live
 
-🔗 [Ver repositório](https://github.com/pedrobfernandes/weather-now)
+🔗 [Ver repositório](https://github.com/pedrobfernandes/weather-now-app)
 
 ---
 
