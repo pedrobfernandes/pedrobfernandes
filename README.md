@@ -2,7 +2,11 @@
 
 Desenvolvedor Frontend com foco em **React, TypeScript e acessibilidade (WCAG)**.
 
-Desenvolvo aplicações web completas com integração a APIs, autenticação e foco em **interfaces acessíveis, responsivas e bem estruturadas**. Tenho experiência prática com navegação por teclado, gerenciamento de foco e uso de ARIA, incluindo testes com leitor de tela (ORCA).
+Tenho interesse especial em construir interfaces que não sejam apenas funcionais, mas também **acessíveis e bem estruturadas**, com atenção real à experiência de quem utiliza teclado e leitores de tela.
+
+Desenvolvo aplicações web completas com integração a APIs e autenticação, aplicando na prática conceitos como **navegação por teclado, gerenciamento de foco e uso de ARIA**, incluindo testes com leitor de tela (ORCA).
+
+Atualmente, sigo aprofundando meus estudos em acessibilidade e desenvolvimento frontend moderno.
 
 ---
 
