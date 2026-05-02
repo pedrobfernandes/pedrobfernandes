@@ -12,7 +12,7 @@ Atualmente, sigo aprofundando meus estudos em acessibilidade e desenvolvimento f
 
 **Frontend**
 
-React • TypeScript • JavaScript (ES6+)
+React • TypeScript • JavaScript (ES6+)  
 HTML5 (semântico) • CSS3 (Flexbox, Grid)
 
 **Dados e Integração**
@@ -27,6 +27,7 @@ Gerenciamento de foco • aria-live • Testes com leitor de tela (ORCA)
 **Ferramentas**
 
 Git • GitHub • Linux • Bash
+
 
 ---
 
