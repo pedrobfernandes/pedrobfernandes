@@ -11,17 +11,21 @@ Atualmente, sigo aprofundando meus estudos em acessibilidade e desenvolvimento f
 ## 🛠️ Stack
 
 **Frontend**
+
 React • TypeScript • JavaScript (ES6+)
 HTML5 (semântico) • CSS3 (Flexbox, Grid)
 
 **Dados e Integração**
+
 APIs REST • Supabase • Autenticação (OTP) • Validação de dados
 
 **Acessibilidade**
+
 WCAG • WAI-ARIA • Navegação por teclado  
 Gerenciamento de foco • aria-live • Testes com leitor de tela (ORCA)
 
 **Ferramentas**
+
 Git • GitHub • Linux • Bash
 
 ---
