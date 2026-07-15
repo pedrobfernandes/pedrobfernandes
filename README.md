@@ -33,6 +33,19 @@ Git • GitHub • Linux • Bash
 
 ## 🚀 Projetos em Destaque
 
+### 🔹 MyNotes
+Aplicação de notas e how-tos desenvolvida com foco na organização de documentação técnica, acessibilidade e evolução contínua da arquitetura.
+
+- Autenticação por OTP com Supabase  
+- CRUD completo com pesquisa e paginação
+- Suporte a Markdown, exportação para PDF e partilha de notas
+- Interface mobile-first e totalmente responsiva
+- Forte foco em acessibilidade (HTML semântico, navegação por teclado e testes com ORCA)
+
+🔗 [Ver repositório](https://github.com/pedrobfernandes/MyNotes)
+
+---
+
 ### 🔹 TrackBalance
 Aplicação de finanças pessoais com autenticação e persistência de dados.
 
